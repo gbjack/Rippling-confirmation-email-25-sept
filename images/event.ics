@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+LAST-MODIFIED:20250410T142247Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20260817T025644Z
+UID:59194
+DTSTART;TZID=Australia/Sydney:20260925T120000
+DTEND;TZID=Australia/Sydney:20260925T143000
+SUMMARY:Rippling - Built For Borderless Growth
+URL:https://ripplingborderlessgrowth.co.nz
+DESCRIPTION:Thank you for registering for our upcoming event - Built For Borderless Growth.\n\nWe’re bringing together a small group of CFOs\, HR and People leaders in Auckland for an open conversation around the realities of growing and managing a workforce across regions. From operational scalability and distributed teams to the systems and processes that can either enable growth or slow it down\, this is designed to be a practical\, peer-led discussion rather than another presentation.\n\nEvent Details: \nDate: Friday\, 25th of September 2026 \nTime: 12:00 - 2:30pm \nLocation: Gilt Brasseri – 2 Chancery Street\, Chambers\, Auckland 1010\, New Zealand\n\nWe look forward to seeing you!
+LOCATION:2 Chancery Street\, Chambers\, Auckland 1010\, New Zealand
+END:VEVENT
+END:VCALENDAR
