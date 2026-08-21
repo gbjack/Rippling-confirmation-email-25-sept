@@ -4,10 +4,10 @@ PRODID:-//AnandChowdhary//calendar-link//EN
 BEGIN:VEVENT
 DTSTART:20260925T020000Z
 DTEND:20260925T043000Z
-DTSTAMP:20260820T070628Z
-SUMMARY:Stop managing HR in silos
-DESCRIPTION:Thank you for registering for our upcoming lunch - Stop managing HR in silos.\n\nOne source of truth today. Ready for the world tomorrow.\n\nThis lunch is about bringing HR and Finance leaders together to explore how consolidating disconnected systems, manual processes and one-off workarounds can create a stronger foundation for growth.\n\nWe’re excited to have you join us.
-LOCATION:2 Chancery Street, Chambers, Auckland 1010, New Zealand
-UID:36936
+DTSTAMP:20260821T021322Z
+SUMMARY:Rippling Event – Stop managing HR in silos
+DESCRIPTION:Thank you for registering for our upcoming lunch - Stop managing HR in silos.\n\nOne source of truth today. Ready for the world tomorrow.\n\nThis lunch is about bringing HR and Finance leaders together to explore how consolidating disconnected systems, manual processes and one-off workarounds can create a stronger foundation for growth.\n\nWe’re looking forward to seeing you at Gilt Brasserie – 2 Chancery Street, Chambers, Auckland 1010, New Zealand.\n
+LOCATION:Gilt Brasserie – 2 Chancery Street, Chambers, Auckland 1010, New Zealand
+UID:98214
 END:VEVENT
 END:VCALENDAR
